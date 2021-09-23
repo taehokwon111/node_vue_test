@@ -6,11 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cancermaker/node_vue_test.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "axios": "^0.21.4",
-    "express": "^4.17.1",
-    "xml2json-light": "^1.0.6"
-  }
+  "bugs": {
+    "url": "https://github.com/Cancermaker/node_vue_test/issues"
+  },
+  "homepage": "https://github.com/Cancermaker/node_vue_test#readme"
 }
